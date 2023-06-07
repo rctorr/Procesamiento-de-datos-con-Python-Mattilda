@@ -5,7 +5,7 @@
 
 ### ORGANIZACIÓN DE MÓDULO 
  
- - [Sesion-01: Fundamentos de Python](Sesion-01/Readme.md)
+ - [Sesion-01: Fundamentos de Python](Sesion-01)
  - [Sesion-02: Estructuras de Datos y Funciones](Sesion-02/Readme.md) 
  - [Sesion-03: Programación funcional, operadores lógicos y funciones lambda](Sesion-03/Readme.md)  
  - [Sesion-04: Pandas y Análisis Exploratorio de Datos](Sesion-04/Readme.md) 
@@ -16,11 +16,7 @@
 
 ### Datasets:
 
-- [Datasets](./Datasets/Readme.md)
-
-### Repositorio
-
-- [Repositorio](https://github.com/beduExpert/B1-Procesamiento-de-Datos-con-Python-2020)
+- Carpeta conteniendo todos los conjuntos de datos usados en las sesiones [Datasets/](./Datasets)
 
 ### ¿Dónde están las funciones de verificación?
 
