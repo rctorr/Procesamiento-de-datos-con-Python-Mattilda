@@ -1,0 +1,22 @@
+--
+-- Current Database: movielens
+--
+
+USE movielens;
+
+--
+-- Table structure for table age_ranges
+--
+
+DROP TABLE IF EXISTS age_ranges;
+CREATE TABLE age_ranges (
+  age_id int DEFAULT NULL,
+  age_range varchar(10) DEFAULT NULL
+);
+
+--
+-- Dumping data for table age_ranges
+--
+
+INSERT INTO age_ranges VALUES (1,'Under 18'),(18,'18-24'),(25,'25-34'),(35,'35-44'),(45,'45-49'),(50,'50-55'),(56,'56+');
+
